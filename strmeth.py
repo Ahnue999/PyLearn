@@ -1,9 +1,10 @@
-# -------------------
-# string methods.
-# strip(), lstrip() and rstrip()
+# ------------------------------------------------
+# ----------------string-methods-1----------------
+# ------------------------------------------------
+# strip(), lstrip() and rstrip() #strip("symbol/s")
 # title(), capitalize(), upper(), lower()
-# zfill()
-# -------------------
+# zfill() # zfill(width)
+# ------------------------------------------------
 
 a = "!**Hello world***"
 
